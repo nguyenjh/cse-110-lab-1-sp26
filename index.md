@@ -24,7 +24,7 @@ Hi there! I'm a **passionate programmer** and _lifelong learner_ who loves build
 
 I grew up fascinated by how things work — from taking apart old electronics to eventually learning how software powers the modern world. Outside of coding, I enjoy hiking, reading sci-fi novels, and experimenting in the kitchen.
 
-![Profile Picture](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&q=80)
+![Profile Picture](https://cdn.custom-cursor.com/packs/11293/kawaii-chiikawa-usagi-pack.png)
 
 *A programmer at work — because laptops and coffee are a universal language.*
 
@@ -125,7 +125,7 @@ Here are some things you might not expect about me:
 - 🧩 I love logic puzzles and escape rooms
 - 🐱 I have a cat named **Kernel** (yes, like the OS kernel)
 
-![Coding Setup](https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&q=80)
+![Coding Setup](https://spiralcute.com/characters/chiikawa/en/img/main.jpg)
 
 *My ideal workspace: clean desk, good light, and a strong cup of coffee.*
 
